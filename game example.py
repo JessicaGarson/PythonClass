@@ -1,4 +1,4 @@
-name_of_student = "raw_input("Whats your name? ")
+name_of_student = raw_input("Whats your name? ")
 print "hello {0}".format(name_of_student)
 
 statement = "Hello {0}, it's nice to meet you".format(name_of_student)
